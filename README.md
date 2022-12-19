@@ -5,7 +5,7 @@ With 15+ years experience in:
 - The fastest chemical kinetics simulations for CFD 
 - Tailored, state-of-the-art CFD with combustion, sprays, turbulence, real-gas/multiphase EoS 
 - fast parallel codes with MPI/OpenCL
-- Working to FRESCO, my Combustion Fluid Dynamics code
+- Working on FRESCO, my Combustion Fluid Dynamics code
   
 Help me out speeding up the clean energy transition, get in touch!
 
