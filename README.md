@@ -1,4 +1,4 @@
-<h2> Combustion researcher and Consultant at <a href="http://www.w-erc.com">WERC</a> </h2>  
+<h2> Combustion researcher, Software Developer and Consultant at <a href="http://www.w-erc.com">WERC</a> </h2>  
 
 With 15+ years experience in:
 - Accurate, fast combustion models for DI, SI and Multi-Fuel engines  
