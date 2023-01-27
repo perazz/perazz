@@ -1,6 +1,6 @@
 <h2> Combustion researcher, Software Developer and Consultant at <a href="http://www.w-erc.com">WERC</a> </h2>  
 
-With 15+ years experience in:
+With 15+ years experience working with legendary <a href="https://reitz.me.wisc.edu/site/index.php">Rolf Reitz</a> on:
 - Accurate, fast combustion models for DI, SI and Multi-Fuel engines  
 - The fastest chemical kinetics simulations for CFD 
 - Tailored, state-of-the-art CFD with combustion, sprays, turbulence, real-gas/multiphase EoS 
